@@ -1,0 +1,8 @@
+{
+  "project_name": "example_project",
+  "author_name": "Your Name",
+  "email": "your.email@example.com",
+  "license": "MIT",
+  "python_version": "3.10",
+  "project_type": ["general", "cli", "web", "ml"]
+}
