@@ -31,11 +31,6 @@ Get up and running in just a few steps:
    python src/app.py
    ```
 
-🎥 **Visual Example:**
-
-![Scaffolding Demo](https://via.placeholder.com/600x400.png?text=Scaffolding+Demo+GIF)  
-_A GIF showing the scaffolding process in action._
-
 ---
 
 ## ✨ Highlights
